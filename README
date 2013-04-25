@@ -1,0 +1,8 @@
+========================
+Django user registration
+========================
+
+This is an experimental branch of django-registration, rewriting the
+application to use Django's class-based views. If you know what you're
+doing, feel free to use it; otherwise, please stick with the latest
+mainline released version (0.8).
